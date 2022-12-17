@@ -1,0 +1,4 @@
+1. Create a project and give it a name in Firebase suppose <Project Name>
+2. Choose if Analytics required or not
+3. Choose Analytics location (preferable to choose default) as we are not going for production or product deployment
+4. 

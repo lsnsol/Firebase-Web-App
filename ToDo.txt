@@ -1,0 +1,20 @@
+1. Create an explanation of the list of sub-topics
+2. sample account to use 
+3. screenshots of the steps to show
+4. maybe video of the whole process 
+5. sample project to upload
+6. npm steps to show the same
+7. list and show the necessary package instalation of the stuffs for the same
+8. show possible CLI commands or batch files that can be built for the same
+9. show how to delete project if not required
+10. analytics and database connection (Part 2 or Advanced part)
+11. costing of usage, read write limits for free tier and etc features which is offered by Firebase
+12. possibility of app integration of android and instalation
+13. how to select suitable domain name and add custom domain names to firebase hosting
+14. how to ping backend server from firebase on Heroku or GCP
+15. CORS issue and other stuffs related to HTTP Headers
+16. Dos for handling issues related to 4xx and 5xx issues
+17. DOs and Recommendations for Angular (Specific to angular based websites only and how to handle generic service)
+18. ppt for the same
+19. github detailed repo with code comments and related documents, readme etc
+20. Sample project showcase of Portfolio website for the same
